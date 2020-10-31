@@ -1,0 +1,136 @@
+body {
+    background-image: url('../image/Background.png');
+    background-size: cover;
+}
+
+.navPad {
+    padding: 10px 300px 10px 300px;
+    font-size: 25px;
+    background-color: #bcfffa;
+    display: flex;
+}
+
+.jRAlign {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.aCAlign {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.title {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #fad3ff;
+    color: black;
+}
+
+img {
+    margin-left: 0%;
+    margin-right: 3.7%;
+}
+
+.annBG {
+    background-color: rgb(164, 230, 175);
+    
+}
+
+.pictureBorder {
+    border-style: solid;
+    border-color: white;
+    border: 10px;
+}
+
+
+
+p {
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.videoGamePad {
+    background-color: rgb(203, 135, 224);
+    color: black;
+    padding: 6px;
+}
+
+.animeListPad {
+    background-color: rgb(203, 135, 224);
+    color: black;
+    padding: 6px;
+}
+
+.pix1 {
+    padding: 20px;
+    background-color: rgb(164, 230, 175);
+}
+
+
+
+.badge-primary {
+    color: rgb(22, 20, 20);
+    background-color: #f2f4f7;
+    padding: 19px;
+    margin: 25px;
+}
+.videoBG {
+    background-color: rgb(231, 172, 150);
+    
+}
+.animeBG {
+    background-color: rgb(231, 172, 150);
+}
+
+.animePurple {
+    background-color: #ac54e3;
+    color: white;
+}
+
+.smallShadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
+  }
+  .pastelGreen {
+    background-color: #bcffc9;
+  }
+  .topTwo {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 10px 10px 25px;
+    margin: 20px 20px 20px 20px;
+  }
+  
+  .topTwoV2 {
+    background-color: white;
+    border-radius: 10px;
+    /* padding: 10px 10px 10px 25px; */
+    margin: 20px 20px 20px 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+  }
+   
+  .annTopTitles{
+    color: white;
+    background-color: #5B69E6;
+    border-radius: 10px;
+  
+    padding: 10px 10px 10px 25px;
+    margin: 20px 20px 20px 20px;
+  
+  }
